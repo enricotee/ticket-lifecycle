@@ -28,7 +28,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/tKgKq4b.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Here, we will be demonstrating ticket opening and resolving with the accounts we created during Post-Installation Configuration.
+Here, we will be demonstrating ticket opening and resolving with the accounts we created during the Post-Installation Configuration.
 </p>
 <br />
 
@@ -52,7 +52,7 @@ Login with an agent account you created.
 <img src="https://i.imgur.com/ezBBeiS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-You should be able to see the ticket you created. If an error is encountered, try using a different agent account. If the error still persists, you may need to readjust the access/permissions for your agent profiles.
+You should be able to see the ticket you created. If an error is encountered, try using a different agent account. If the error persists, you may need to readjust the access/permissions for your agent profiles.
 </p>
 <br />
 
